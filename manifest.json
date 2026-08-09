@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "releaseTag": "v5",
+  "version": 6,
+  "releaseTag": "v6",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -113,6 +113,51 @@
       "url": "https://github.com/rhamid509/zikr-content/releases/download/v2/hisnul_muslim_bangla.pdf",
       "sizeBytes": 3570142,
       "sha256": "47abdc32615d04fa6fa682e172fd41b158732db8d3f4145c8def4611d2a986f3"
+    }
+  ],
+  "books": [
+    {
+      "id": "bishad_sindhu",
+      "title": "বিষাদ-সিন্ধু",
+      "author": "মীর মশাররফ হোসেন",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v6/bishad_sindhu_cover.jpg",
+      "coverSha256": "b1577d5933e4f4829072e95a04ebea575eddded54d2d9f18f519c74eaf948ab0",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v6/bishad_sindhu.pdf",
+          "sizeBytes": 34972948,
+          "sha256": "0637ceb397e31ef28c96e524b739d2efac1b396873da79482bea220a60a51297"
+        }
+      ]
+    },
+    {
+      "id": "sirat_ibn_hisham",
+      "title": "সীরাতে ইবনে হিশাম",
+      "author": "ইবনে হিশাম",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v6/sirat_ibn_hisham_cover.jpg",
+      "coverSha256": "2171dd862d129014de387c6a52919ea870a45e6be8948212ac5174a94cf3b1f2",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v6/sirat_ibn_hisham_part1.pdf",
+          "sizeBytes": 37893522,
+          "sha256": "b968eba40d6e79afa5b1951f9844a2438dcbe8707427204e96dd5e702a71e2cb"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v6/sirat_ibn_hisham_part2.pdf",
+          "sizeBytes": 45148738,
+          "sha256": "f82b52f36bb3de11d0ee2dd90c778bb083c3a1c9e29a0a36b73b888641023b1b"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v6/sirat_ibn_hisham_part3.pdf",
+          "sizeBytes": 45162259,
+          "sha256": "54ccdff9d630d6796d9f340b860d9de5d35987da6a1d4f5b6cce03ffbde398b9"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v6/sirat_ibn_hisham_part4.pdf",
+          "sizeBytes": 29948923,
+          "sha256": "d3212a8536ad994c801a6f66a9b4c5a5ac807d0e06357245e25930dd3a5c5a2f"
+        }
+      ]
     }
   ]
 }
