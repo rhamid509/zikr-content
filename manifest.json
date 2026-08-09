@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "releaseTag": "v2",
+  "version": 3,
+  "releaseTag": "v3",
   "files": [
     {
       "id": "quran-bn-muhiuddinkhan",
@@ -8,6 +8,13 @@
       "url": "https://github.com/rhamid509/zikr-content/releases/download/v2/quran_ben_muhiuddinkhan.json",
       "sizeBytes": 2711343,
       "sha256": "96ca3d09a0c821aae2a0e4265739aa0314b9aefee8ad63bfd7ca8d3872581b00"
+    },
+    {
+      "id": "quran-ara-uthmanihaf",
+      "path": "quran/ara-uthmanihaf.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v3/quran_ara_uthmanihaf.json",
+      "sizeBytes": 1967747,
+      "sha256": "66dadae2f7c7bb762aaf77603489951da4fe555fcee9f0106bfddae860e89cb4"
     },
     {
       "id": "hadith-bn-abudawud",
