@@ -52,13 +52,13 @@ Do not add Bangla Tafsir from any "no license stated" source — silence on lice
 
 ## v6 — Book catalog (fiction + Seerah)
 
-**বিষাদ-সিন্ধু (Bishad-Sindhu) — Mir Mosharraf Hossain (d. 1911)**
-Source: [archive.org/details/BishadShindhu](https://archive.org/details/BishadShindhu)
-License: archive.org rights field = **Public Domain Mark 1.0** (`licenseurl: creativecommons.org/publicdomain/mark/1.0/`). Author died 1911 (115 years ago) — solidly public domain under any life+N copyright term. Cross-verified against a second independent DLI scan (`archive.org/details/in.ernet.dli.2015.356582`, rights field: "In Public Domain").
-
 **সীরাতে ইবনে হিশাম (Sirat Ibn Hisham), 4 parts — Ibn Hisham (d. c. 833 CE)**
 Source: [archive.org/details/eelm.weebly.com_20141211](https://archive.org/details/eelm.weebly.com_20141211)
 License: archive.org rights field = **Public Domain Mark 1.0**. Bangla translation team: Akram Farooq et al. **Provenance caveat**: a different archive.org upload of the same underlying translation (`archive.org/details/ibnhisham`, hosted by almodina.com/Islamic Foundation Bangladesh) is tagged **CC BY-NC-ND** (non-commercial, no-derivatives) by a different uploader, and that copy is AES-encrypted (print/copy blocked) — consistent with the NC/ND terms. Neither uploader is the original publisher issuing a statement directly; this is the best available signal, not a publisher-issued waqf statement. Chose the PD-tagged, unencrypted copy over the restrictive one.
+
+## v7 — Removed বিষাদ-সিন্ধু (Bishad-Sindhu)
+
+Removed from the catalog at the user's request: the archive.org scan (`archive.org/details/BishadShindhu`, Public Domain Mark 1.0, Mir Mosharraf Hossain d. 1911) uses old-style Bangla typesetting/font rendering that the user found too hard to read comfortably, independent of the license (which remains valid — this is a readability decision, not a legal one). Do not re-add this specific scan; if Bishad-Sindhu is wanted again later, look for a re-typeset/cleaner-font edition instead.
 
 **Explicitly rejected for this catalog — do not use:**
 - `shibircloud.com/pdf/sirat_ibn_hisham_v2.pdf` — PDF metadata itself states `Author: www.icsbook.info`, confirming this is icsbook.info's content (already rejected repeatedly this session for copyright/political-org reasons) regardless of which CDN serves it. Also AES-256 encrypted (print/copy/change all disabled).

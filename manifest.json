@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "releaseTag": "v6",
+  "version": 7,
+  "releaseTag": "v7",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -116,20 +116,6 @@
     }
   ],
   "books": [
-    {
-      "id": "bishad_sindhu",
-      "title": "বিষাদ-সিন্ধু",
-      "author": "মীর মশাররফ হোসেন",
-      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v6/bishad_sindhu_cover.jpg",
-      "coverSha256": "b1577d5933e4f4829072e95a04ebea575eddded54d2d9f18f519c74eaf948ab0",
-      "files": [
-        {
-          "url": "https://github.com/rhamid509/zikr-content/releases/download/v6/bishad_sindhu.pdf",
-          "sizeBytes": 34972948,
-          "sha256": "0637ceb397e31ef28c96e524b739d2efac1b396873da79482bea220a60a51297"
-        }
-      ]
-    },
     {
       "id": "sirat_ibn_hisham",
       "title": "সীরাতে ইবনে হিশাম",
