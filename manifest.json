@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "releaseTag": "v1",
+  "files": [
+    {
+      "id": "book-placeholder-pack",
+      "path": "books/placeholder-pack.zip",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v1/placeholder-pack.zip",
+      "sizeBytes": 0,
+      "sha256": ""
+    }
+  ]
+}
