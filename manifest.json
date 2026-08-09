@@ -1,13 +1,27 @@
 {
-  "version": 1,
-  "releaseTag": "v1",
+  "version": 2,
+  "releaseTag": "v2",
   "files": [
     {
-      "id": "book-placeholder-pack",
-      "path": "books/placeholder-pack.zip",
-      "url": "https://github.com/rhamid509/zikr-content/releases/download/v1/placeholder-pack.zip",
-      "sizeBytes": 10510,
-      "sha256": "190a6c8ddd3e8d82ad8cbd8afceeb21000944154fdd4131a6da6a9837683fbb4"
+      "id": "quran-bn-muhiuddinkhan",
+      "path": "quran/ben-muhiuddinkhan.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v2/quran_ben_muhiuddinkhan.json",
+      "sizeBytes": 2711343,
+      "sha256": "96ca3d09a0c821aae2a0e4265739aa0314b9aefee8ad63bfd7ca8d3872581b00"
+    },
+    {
+      "id": "hadith-bn-abudawud",
+      "path": "hadith/ben-abudawud.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v2/hadith_ben_abudawud.json",
+      "sizeBytes": 7633503,
+      "sha256": "4dedfec0135b153cbc2a029b3419ea3f4f52a4c73266e161e660c0fc983ee31d"
+    },
+    {
+      "id": "dua-hisnul-muslim-bn",
+      "path": "books/hisnul_muslim_bangla.pdf",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v2/hisnul_muslim_bangla.pdf",
+      "sizeBytes": 3570142,
+      "sha256": "47abdc32615d04fa6fa682e172fd41b158732db8d3f4145c8def4611d2a986f3"
     }
   ]
 }
