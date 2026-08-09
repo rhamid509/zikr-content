@@ -20,6 +20,12 @@ License: front-matter notice on the underlying work (confirmed on the English ed
 Source: [fawazahmed0/quran-api](https://github.com/fawazahmed0/quran-api) (`editions/ara-quranuthmanihaf.json`)
 License: [The Unlicense](https://github.com/fawazahmed0/quran-api/blob/1/LICENSE) — same repo and license as the Bangla translation.
 
+## v4 — Sihah Sittah (all 6 major hadith books, Arabic + Bangla)
+
+**Hadith — Sahih al-Bukhari, Sahih Muslim, Sunan Abu Dawud, Jami at-Tirmidhi, Sunan an-Nasai, Sunan Ibn Majah — Arabic and Bangla**
+Source: [fawazahmed0/hadith-api](https://github.com/fawazahmed0/hadith-api) (`editions/ara-<book>.min.json` and `editions/ben-<book>.min.json`)
+License: [The Unlicense](https://github.com/fawazahmed0/hadith-api/blob/1/LICENSE) — same repo and license already used for the v2 Abu Dawud content; v4 supersedes that single-book file with the full six-book set.
+
 ## Not yet included
 
 **Tafsir (Quran commentary) in Bangla**: researched repeatedly (3 separate passes) — no source found with a clear, verifiable redistribution license.

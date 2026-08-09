@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "releaseTag": "v3",
+  "version": 4,
+  "releaseTag": "v4",
   "files": [
     {
       "id": "quran-bn-muhiuddinkhan",
@@ -17,11 +17,88 @@
       "sha256": "66dadae2f7c7bb762aaf77603489951da4fe555fcee9f0106bfddae860e89cb4"
     },
     {
-      "id": "hadith-bn-abudawud",
-      "path": "hadith/ben-abudawud.json",
-      "url": "https://github.com/rhamid509/zikr-content/releases/download/v2/hadith_ben_abudawud.json",
+      "id": "hadith-ara-bukhari",
+      "path": "hadith/ara_bukhari.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ara_bukhari.json",
+      "sizeBytes": 9409647,
+      "sha256": "f887d8724f75fb6e1d5d29342a173af5346ad9b933173c85e6e3cb570063ea33"
+    },
+    {
+      "id": "hadith-ben-bukhari",
+      "path": "hadith/ben_bukhari.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ben_bukhari.json",
+      "sizeBytes": 14712741,
+      "sha256": "2886f6ec0af0833a7529ff63c608e035e61045b81788c08d2d23755f2df553ef"
+    },
+    {
+      "id": "hadith-ara-muslim",
+      "path": "hadith/ara_muslim.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ara_muslim.json",
+      "sizeBytes": 8329204,
+      "sha256": "2cb296f3455ff8a3da9f6a0ca3de75da675788b2fb446ad316df297838e48217"
+    },
+    {
+      "id": "hadith-ben-muslim",
+      "path": "hadith/ben_muslim.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ben_muslim.json",
+      "sizeBytes": 10971438,
+      "sha256": "f24bf6d942fd96290abe37458214cb30f98b3f5f25109e388d3b04e5028d6ad0"
+    },
+    {
+      "id": "hadith-ara-abudawud",
+      "path": "hadith/ara_abudawud.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ara_abudawud.json",
+      "sizeBytes": 6623115,
+      "sha256": "30dd3792ea65abe7fd0be8d568809d4eac04e38cbbd588b9c6055218fe43675f"
+    },
+    {
+      "id": "hadith-ben-abudawud",
+      "path": "hadith/ben_abudawud.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ben_abudawud.json",
       "sizeBytes": 7633503,
       "sha256": "4dedfec0135b153cbc2a029b3419ea3f4f52a4c73266e161e660c0fc983ee31d"
+    },
+    {
+      "id": "hadith-ara-tirmidhi",
+      "path": "hadith/ara_tirmidhi.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ara_tirmidhi.json",
+      "sizeBytes": 6583667,
+      "sha256": "22b7ffbbca9beb5d4f108cc0389a3cd16917876b3ceb32993c46e1554afd871b"
+    },
+    {
+      "id": "hadith-ben-tirmidhi",
+      "path": "hadith/ben_tirmidhi.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ben_tirmidhi.json",
+      "sizeBytes": 8199627,
+      "sha256": "4a02895ef4db491c6cc27396007f0bb7779198d27895afa0992ba2931e2f0f19"
+    },
+    {
+      "id": "hadith-ara-nasai",
+      "path": "hadith/ara_nasai.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ara_nasai.json",
+      "sizeBytes": 6447219,
+      "sha256": "18294d8da9ec9a735719f26709858ac30657c1122f6a39d179f128bfc59ecb80"
+    },
+    {
+      "id": "hadith-ben-nasai",
+      "path": "hadith/ben_nasai.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ben_nasai.json",
+      "sizeBytes": 7340594,
+      "sha256": "97adbefc3f3f9a1286fdc1cb954927da75112858e36bc6b3752a3a39bba222e3"
+    },
+    {
+      "id": "hadith-ara-ibnmajah",
+      "path": "hadith/ara_ibnmajah.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ara_ibnmajah.json",
+      "sizeBytes": 4971752,
+      "sha256": "495fcccdea5f2d157794d2b1bd1eaa0e0a5ff5aeb6be2d7817de8f25e3b3349c"
+    },
+    {
+      "id": "hadith-ben-ibnmajah",
+      "path": "hadith/ben_ibnmajah.json",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v4/ben_ibnmajah.json",
+      "sizeBytes": 5126600,
+      "sha256": "6f613e145084705f57c11586cf2e8eb399775fdf503e0d1ae017235f873d63ef"
     },
     {
       "id": "dua-hisnul-muslim-bn",
