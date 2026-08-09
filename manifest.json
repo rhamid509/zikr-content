@@ -1,7 +1,14 @@
 {
-  "version": 4,
-  "releaseTag": "v4",
+  "version": 5,
+  "releaseTag": "v5",
   "files": [
+    {
+      "id": "tafsir-bn-zakaria",
+      "path": "tafsir/tafsir_bn_zakaria.sqlite",
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v5/tafsir_bn_zakaria.sqlite",
+      "sizeBytes": 15335424,
+      "sha256": "5204bb389e081f8b3030010635579387407c168eff931eaab2367a848aedb7e4"
+    },
     {
       "id": "quran-bn-muhiuddinkhan",
       "path": "quran/ben-muhiuddinkhan.json",
