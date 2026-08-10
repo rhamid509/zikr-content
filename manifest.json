@@ -151,8 +151,8 @@
       "id": "hafezi_quran",
       "title": "হাফেজি কুরআন",
       "pagesUrl": "https://github.com/rhamid509/zikr-content/releases/download/v8/indopak_15_lines.json",
-      "pagesSizeBytes": 2139053,
-      "pagesSha256": "2cd0ad42d95c175dd3357c0c8869b2735268634be0fac5d60ea707a8c6179979",
+      "pagesSizeBytes": 2147878,
+      "pagesSha256": "d28fb6363a268847e7c4dc9ccee65f741478c2282fe0e5d267b6d071316563c3",
       "fontUrl": "https://github.com/rhamid509/zikr-content/releases/download/v8/hafezi_font.ttf",
       "fontSizeBytes": 301164,
       "fontSha256": "b7a35b2fd1c317193ee07b265772a5355f35a22e644cc8d1a897a82be1a0e422"
@@ -161,8 +161,8 @@
       "id": "nurani_quran",
       "title": "নূরানী কুরআন",
       "pagesUrl": "https://github.com/rhamid509/zikr-content/releases/download/v8/indopak_15_lines.json",
-      "pagesSizeBytes": 2139053,
-      "pagesSha256": "2cd0ad42d95c175dd3357c0c8869b2735268634be0fac5d60ea707a8c6179979",
+      "pagesSizeBytes": 2147878,
+      "pagesSha256": "d28fb6363a268847e7c4dc9ccee65f741478c2282fe0e5d267b6d071316563c3",
       "fontUrl": "https://github.com/rhamid509/zikr-content/releases/download/v8/nurani_font.ttf",
       "fontSizeBytes": 133376,
       "fontSha256": "a406aa685f307d96327deecaae6d69322d28e30cd7ec8929badbee19a7e6c585"
