@@ -67,7 +67,9 @@ Removed from the catalog at the user's request: the archive.org scan (`archive.o
 - Naseem Hijazi Bangla translations (archive.org) — uploader mislabeled "Public Domain Mark" despite the author dying in 1996 (in copyright until ~2046-2066). Uploader self-tags are not authoritative; verify against the actual author's death date every time.
 - সহজ কাসাসুল আম্বিয়া (Qasas al-Anbiya Bangla) — uploader-applied PD Mark on a modern translation (Hifzur Rahman) that Al-Kawsar Publishing House still actively sells commercially. Rejected as a likely uploader copyright violation, not a real grant.
 
-## v8 — হাফেজি কুরআন / নূরানী কুরআন (Tools tab mushaf readers)
+## v8 — হাফেজি কুরআন (Tools tab mushaf reader)
+
+**নূরানী কুরআন removed at the user's request** (kept only হাফেজি কুরআন) — the Amiri Quran font entry below is retained in this file for provenance/history only; it is no longer referenced by manifest.json or shipped in the app.
 
 **Mushaf page layout + Arabic text — Indopak 15-lines (Qudratullah)**
 Source: [QUL — Quranic Universal Library](https://qul.tarteel.ai) (Tarteel AI), resources [mushaf-layout/12](https://qul.tarteel.ai/resources/mushaf-layout/12) (page/line structure, 610 pages) and [quran-script/59](https://qul.tarteel.ai/resources/quran-script/59) (Indopak Nastaleeq word-by-word text). Joined locally via `tools/build_indopak_pages.js` into one `indopak_15_lines.json` (610 pages, verified start-to-end against Al-Fatiha and An-Nas).
