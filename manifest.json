@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "releaseTag": "v11",
+  "version": 12,
+  "releaseTag": "v12",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -357,6 +357,103 @@
           "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/varot_ovijan_part5.pdf",
           "sizeBytes": 12205588,
           "sha256": "ed890ecb16016929b8988862b4bd1230d8709150350d49c0ad911381a3cf32e1"
+        }
+      ]
+    },
+    {
+      "id": "nanga_toloyar",
+      "title": "নাঙ্গা তলোয়ার",
+      "author": "এনায়েতুল্লাহ আলতামাশ",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v12/nanga_toloyar_cover.jpg",
+      "coverSha256": "35435d31800d5616380187d11063c66d06ef2d0059816fb82c3ea8a5cff81a3c",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/nanga_toloyar_part1.pdf",
+          "sizeBytes": 7311490,
+          "sha256": "e804fabe7726bae0c89c6a3fbbf24b0c46760442fac94b7d9b7a7bfe4c9b8b0d"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/nanga_toloyar_part2.pdf",
+          "sizeBytes": 7056276,
+          "sha256": "bf2d8e1ada55eb4e3b8c425aed096bf1bc9d3e3f352d167bcf582436f60b41d2"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/nanga_toloyar_part3.pdf",
+          "sizeBytes": 8524082,
+          "sha256": "555acbcdc502839f5cca9e78eb94fcec6b7b39adb21611ed1c19ef8af5d80a9f"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/nanga_toloyar_part4.pdf",
+          "sizeBytes": 7565521,
+          "sha256": "4c0c4c5cff4bd5786e028557c6db3d2023bbb67bab4ee46eb26f26eac510a808"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/nanga_toloyar_part5.pdf",
+          "sizeBytes": 8372368,
+          "sha256": "58f647f2f6279d50d2fe89aea52dff39ef9b4f19109b54129a16ee3dfc2ddecf"
+        }
+      ]
+    },
+    {
+      "id": "emandipto_dastan",
+      "title": "ঈমানদীপ্ত দাস্তান",
+      "author": "এনায়েতুল্লাহ আলতামাশ",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_cover.jpg",
+      "coverSha256": "489cd582fcacb9e0cd4bcac44a006c9fea1318a17ca76d04e5653a54981b776a",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part1.pdf",
+          "sizeBytes": 15312895,
+          "sha256": "7a65ff33c37f3a4b0fe7677675cce1fa792cca2940b659a76559463e71ca64e9"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part2.pdf",
+          "sizeBytes": 12888331,
+          "sha256": "3d659d4b573f4ec854fa2f811fce45df986ae97ced509bc0f0d90f9ce82efbe2"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part3.pdf",
+          "sizeBytes": 12695719,
+          "sha256": "68d9d445b3c8fc8c2e51ed9276bf73beb230573b01ed80772e5e06741b1d9ea9"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part4.pdf",
+          "sizeBytes": 12425781,
+          "sha256": "f03cc0cf16cd32a912dba6ae2cf278523f74afe1ee8f43acf78e5cddae1695de"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part5.pdf",
+          "sizeBytes": 13022430,
+          "sha256": "b2bc9fdf3b0b7e6535aae963ca7c516c058b71935139a3775bffe8ad1db9f48c"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part6.pdf",
+          "sizeBytes": 10536756,
+          "sha256": "a1719ccfae012caade2a066aa8df43c8959e13bb3657abe45c464dac2c20cbcb"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part7.pdf",
+          "sizeBytes": 14086431,
+          "sha256": "887e4c1c16b63d65729015d125b2cb09ac55deb6f7b3d1efdd985d2220f81985"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/emandipto_dastan_part8.pdf",
+          "sizeBytes": 14227276,
+          "sha256": "05927e4597e2a41b957d5fc873c5aa66ec60ee7febcd5427526dee18a6007e9d"
+        }
+      ]
+    },
+    {
+      "id": "usmani_khilafater_itikatha",
+      "title": "উসমানী খিলাফাতের ইতিকথা",
+      "author": "এ.কে.এম. নাজির আহমদ",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v12/usmani_khilafater_itikatha_cover.jpg",
+      "coverSha256": "769d965a00e120a2a96f354004d07a1a37d5852de8eafd54174df8363daa3bce",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/usmani_khilafater_itikatha.pdf",
+          "sizeBytes": 1860764,
+          "sha256": "49b81de0b8dad5d641e3f35a82eccfbf45745b5a22903722f9e5de5e4c832ebd"
         }
       ]
     }
