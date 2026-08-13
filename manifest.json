@@ -1,6 +1,6 @@
 {
-  "version": 10,
-  "releaseTag": "v10",
+  "version": 11,
+  "releaseTag": "v11",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -262,6 +262,101 @@
           "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/umar_ibnul_khattab.pdf",
           "sizeBytes": 25356302,
           "sha256": "1346b2461f4595d916c0d97c73b412fedec03773749646cab1c4215b6b1195da"
+        }
+      ]
+    },
+    {
+      "id": "muhammad_bin_kashim",
+      "title": "মুহম্মদ ইবন কাসিম",
+      "author": "নসীম হিজাযী",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v11/muhammad_bin_kashim_cover.jpg",
+      "coverSha256": "5101888b827fed55653f4d4c3b51836bb6f0660d2c25468369d0d264c26da1e6",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/muhammad_bin_kashim.pdf",
+          "sizeBytes": 26776386,
+          "sha256": "9b86a23274161950b99bdff12bf30b0b2d541479d45988a69b3f2c612e230150"
+        }
+      ]
+    },
+    {
+      "id": "manush_o_debota",
+      "title": "মানুষ ও দেবতা",
+      "author": "নসীম হিজাযী",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v11/manush_o_debota_cover.jpg",
+      "coverSha256": "8ad336d06a95c2101e55a9cdda0412a14dd777d4504745ec8a4f758ff7f9f27f",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/manush_o_debota.pdf",
+          "sizeBytes": 19169877,
+          "sha256": "a25e66ba1c63b74c40f5177394055ffa1245618f841d1bee8b1a33b9e95c0a08"
+        }
+      ]
+    },
+    {
+      "id": "andalusiar_shomudro_shoikote",
+      "title": "আন্দালুসিয়ার সমুদ্রসৈকতে",
+      "author": "এনায়েতুল্লাহ আলতামাশ",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v11/andalusiar_shomudro_shoikote_cover.jpg",
+      "coverSha256": "fb27a600f53299c3c10ddead6653595f9641c012f6ba5ec54c478d50c6c8203c",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/andalusiar_shomudro_shoikote.pdf",
+          "sizeBytes": 11364344,
+          "sha256": "4983e1ca3746be6b2a67d1e729bb1360383c93f64920f99974ce966547553e35"
+        }
+      ]
+    },
+    {
+      "id": "spainer_ruposhi_konna",
+      "title": "স্পেনের রূপসী কন্যা",
+      "author": "এনায়েতুল্লাহ আলতামাশ",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v11/spainer_ruposhi_konna_cover.jpg",
+      "coverSha256": "9c69eb49a8bce95fdb1e46003db7b5243700e038fca33ba3d28c23b055626046",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/spainer_ruposhi_konna_part1.pdf",
+          "sizeBytes": 8026302,
+          "sha256": "2e9acf15317c5063405095c2ec63d9c4ef106596c769a3edf0da7e9e465ba6a8"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/spainer_ruposhi_konna_part2.pdf",
+          "sizeBytes": 4901992,
+          "sha256": "9586c49e9281d6509fc8528e838f348a9aafa7462d136d20808af7ec970e40c0"
+        }
+      ]
+    },
+    {
+      "id": "varot_ovijan",
+      "title": "ভারত অভিযান",
+      "author": "এনায়েতুল্লাহ আলতামাশ",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v11/varot_ovijan_cover.jpg",
+      "coverSha256": "396ad200e14f00744daabfddc589b31de24333dcdd22020b0cbffa59318e2811",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/varot_ovijan_part1.pdf",
+          "sizeBytes": 11214728,
+          "sha256": "98dc8511ea209dca79d6c73c11d321ce57b22a4c952a86b0fe940a2a1d6d1cba"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/varot_ovijan_part2.pdf",
+          "sizeBytes": 10842351,
+          "sha256": "0564f4c2f172437acb9bd4d4edf85ccbd53a7e610f36aac54be5952958af78be"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/varot_ovijan_part3.pdf",
+          "sizeBytes": 12216983,
+          "sha256": "23ca65b4ede14f860b7f468dd6a247e1bb9214cf941160bbfa922acf9ae484b8"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/varot_ovijan_part4.pdf",
+          "sizeBytes": 12699021,
+          "sha256": "f0a8cd34852253888b08c795a6ef506f941672549faa0fd48918b9bf438389fd"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/varot_ovijan_part5.pdf",
+          "sizeBytes": 12205588,
+          "sha256": "ed890ecb16016929b8988862b4bd1230d8709150350d49c0ad911381a3cf32e1"
         }
       ]
     }
