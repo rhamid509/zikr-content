@@ -1,6 +1,6 @@
 {
-  "version": 8,
-  "releaseTag": "v8",
+  "version": 9,
+  "releaseTag": "v9",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -142,6 +142,53 @@
           "url": "https://github.com/rhamid509/zikr-content/releases/download/v6/sirat_ibn_hisham_part4.pdf",
           "sizeBytes": 29948923,
           "sha256": "d3212a8536ad994c801a6f66a9b4c5a5ac807d0e06357245e25930dd3a5c5a2f"
+        }
+      ]
+    },
+    {
+      "id": "riyad_us_salihin",
+      "title": "রিয়াদুস সালেহীন",
+      "author": "ইমাম নববী",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v9/riyad_us_salihin_cover.jpg",
+      "coverSha256": "8f7bca4b092d070711460fe1ed6ea7763ccecb9a55f235d2633196dc3293593b",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v9/riyad_us_salihin_part1.pdf",
+          "sizeBytes": 6351942,
+          "sha256": "be5be91ae127c276209722e4a1365cde783ffff3aad04c60d510154a72e31e22"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v9/riyad_us_salihin_part2.pdf",
+          "sizeBytes": 6144222,
+          "sha256": "194ba1091bbe7e63c564462b290821818ecf419aec6937286bb2bea1992032f5"
+        }
+      ]
+    },
+    {
+      "id": "kitabut_tawhid",
+      "title": "কিতাবুত তাওহীদ",
+      "author": "মুহাম্মাদ ইবনে আব্দুল ওয়াহাব",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v9/kitabut_tawhid_cover.jpg",
+      "coverSha256": "255a4c9f4eaec0cfc4d58ee8d85c0e28d59ee25d8af01cbe8830318f2cd71971",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v9/kitabut_tawhid.pdf",
+          "sizeBytes": 3222492,
+          "sha256": "fb8e55addf2c4c12675abc3b4dfbb4504f55ef4ec88fd4fdf9407dea3f91c90b"
+        }
+      ]
+    },
+    {
+      "id": "ar_raheeq_al_makhtum",
+      "title": "আর-রাহীকুল মাখতূম",
+      "author": "সফিউর রহমান মুবারকপুরী",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v9/ar_raheeq_al_makhtum_cover.jpg",
+      "coverSha256": "d0e11dbbefeafb475db1f8badd7c3b1c1ad738f0551cbaa20809745d0921bf01",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v9/ar_raheeq_al_makhtum.pdf",
+          "sizeBytes": 27500735,
+          "sha256": "651a70862ef3bc22a6b6895c01226912a2c34c11a499cbb7cac2448c13dd9b05"
         }
       ]
     }
