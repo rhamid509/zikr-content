@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "releaseTag": "v12",
+  "version": 13,
+  "releaseTag": "v13",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -454,6 +454,107 @@
           "url": "https://github.com/rhamid509/zikr-content/releases/download/v12/usmani_khilafater_itikatha.pdf",
           "sizeBytes": 1860764,
           "sha256": "49b81de0b8dad5d641e3f35a82eccfbf45745b5a22903722f9e5de5e4c832ebd"
+        }
+      ]
+    },
+    {
+      "id": "tafsir_ibn_kathir",
+      "title": "তাফসীর ইবনে কাসীর",
+      "author": "ইমাদুদ্দিন ইবনু কাসীর",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_cover.jpg",
+      "coverSha256": "6ccc646c91522140c097acd78b629886f1e81e1b9be6ab27022d3565d6eb7f22",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part1.pdf",
+          "sizeBytes": 26225184,
+          "sha256": "da5baa72490d81d01c419bf5a1757c979910d18b6cc77155805cc3549e938d38"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part2.pdf",
+          "sizeBytes": 28854921,
+          "sha256": "5f85fc5f586896ff33c0890cee4439899ee982d3509704e98a1587d51e8da9fc"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part3.pdf",
+          "sizeBytes": 29449708,
+          "sha256": "d5b08197c17a257519fde20e7a9d91f582b9a8e820e6d7ccf8450350887bb9a4"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part4.pdf",
+          "sizeBytes": 11773855,
+          "sha256": "67bcfbbcb3a99d06d464a9ab9489e4c1ff1c68e1858ed8ef9a8bc3a09a977b5d"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part5.pdf",
+          "sizeBytes": 12936436,
+          "sha256": "41b4cf9e4708e9cc635ca538079e25e31af0770a3a4367ec099fbbd5e83e0b12"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part6.pdf",
+          "sizeBytes": 16278561,
+          "sha256": "9fc9fba6b0bbc7fd28b5b1f807ff441b10e9e2b93cb3f94e3a3b78afb15cf83e"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part7.pdf",
+          "sizeBytes": 26933895,
+          "sha256": "2f8a2ea77038de1afc759d5a095c14b416f2ec22bd811788dcadb15461567d4c"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part8.pdf",
+          "sizeBytes": 24247964,
+          "sha256": "e5ab1a7cae95bf1a076cacc4e2be3ba862e95bccbf77bb88f94a63bc912989d1"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part9.pdf",
+          "sizeBytes": 24181665,
+          "sha256": "faff931414eea5ec02d5f47bf3059f6d90800efe0bae1f46e2c58922e5c16b34"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/tafsir_ibn_kathir_part10.pdf",
+          "sizeBytes": 12418987,
+          "sha256": "711857bccc24db1c7e7903bd30053a780f76125111cb6eb31107f578292c0cde"
+        }
+      ]
+    },
+    {
+      "id": "bulugh_al_maram",
+      "title": "তাহক্বীক্ব বুলুগুল মারাম",
+      "author": "ইবনে হাজার আসকালানী",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v13/bulugh_al_maram_cover.jpg",
+      "coverSha256": "cca023b0e664c360f44eb2992d6f019f9ab2b44b5853d81ad504382507b6852d",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/bulugh_al_maram.pdf",
+          "sizeBytes": 28954285,
+          "sha256": "c47cb41c1d1b0ab4a5a589b16e25b8675068fdd183f4e1699767979b2bf25106"
+        }
+      ]
+    },
+    {
+      "id": "kashf_al_shubuhat",
+      "title": "কাশফুশ শুবহাত",
+      "author": "মুহাম্মাদ ইবনে আব্দুল ওয়াহাব",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v13/kashf_al_shubuhat_cover.jpg",
+      "coverSha256": "9a71cbb7ef028470fb8436ae2a22255ecdc71c0de6d7837241665611bed98e7e",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/kashf_al_shubuhat.pdf",
+          "sizeBytes": 558952,
+          "sha256": "6c3a59a49f3c0bbd2c28376c6e2624d046d1dfd214f872c1dab61ed081948367"
+        }
+      ]
+    },
+    {
+      "id": "zad_al_maad",
+      "title": "যাদুল মাআদ",
+      "author": "ইবনুল কাইয়্যিম",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v13/zad_al_maad_cover.jpg",
+      "coverSha256": "d226a143b42c4911ac391874eaab6e1f176031394911a6339ad178f5a2afec5e",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/zad_al_maad_part1.pdf",
+          "sizeBytes": 18606015,
+          "sha256": "afb3c8b9c63bcfecf89b70a6950ee1b487bccb48e4c2b237f6559c94a83eb2e3"
         }
       ]
     }
