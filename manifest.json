@@ -1,6 +1,6 @@
 {
-  "version": 9,
-  "releaseTag": "v9",
+  "version": 10,
+  "releaseTag": "v10",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -189,6 +189,79 @@
           "url": "https://github.com/rhamid509/zikr-content/releases/download/v9/ar_raheeq_al_makhtum.pdf",
           "sizeBytes": 27500735,
           "sha256": "651a70862ef3bc22a6b6895c01226912a2c34c11a499cbb7cac2448c13dd9b05"
+        }
+      ]
+    },
+    {
+      "id": "al_bidaya_wan_nihaya",
+      "title": "আল-বিদায়া ওয়ান নিহায়া",
+      "author": "ইবনে কাসীর",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_cover.jpg",
+      "coverSha256": "1d90ce9ad0f6f5f62e40c2243f579e53a8031d970cbd7ff36e6d903b5c8d7386",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part1.pdf",
+          "sizeBytes": 25009670,
+          "sha256": "db74708b5b888f77732406bec1ec4a9e627c193af612549800903eededf81177"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part2.pdf",
+          "sizeBytes": 21565206,
+          "sha256": "bf64b911da6348da2fc9e3920782cdaa18bbd1b3cdf61feb65d758f38317b312"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part3.pdf",
+          "sizeBytes": 20095450,
+          "sha256": "15a26552a79cf98af845af5edeba748f567607fedbb7408e6b7e3faa902f23fc"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part4.pdf",
+          "sizeBytes": 23618843,
+          "sha256": "b085f3a876c77bc07bdfbc1192afffba6f6fed5699de45b2e382ffcdaaae8091"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part5.pdf",
+          "sizeBytes": 41256164,
+          "sha256": "f7537f54d297a3460f7b66d96aee4828f3174d9c0b627a7fa462b283d2b086a4"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part6.pdf",
+          "sizeBytes": 19819243,
+          "sha256": "91fdb40705863c0a0d6c2bee821c0d07b7dd7ff8ce9c5f8082e74b19df4a54d2"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part7.pdf",
+          "sizeBytes": 25231391,
+          "sha256": "08c20f5800cdb5bf4115cafc866940fad331dcd8ab8d46370ef692b8351fd5f6"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part8.pdf",
+          "sizeBytes": 30375388,
+          "sha256": "e76e6783894cca6cf7ed51b43d5ece53e58f571ab20ce05e3eacf9652fc6f374"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part9.pdf",
+          "sizeBytes": 23966134,
+          "sha256": "31eafc183740a21f3468b6ba97aa4c359796d1fcb3b2c7f852b6a406ffcb9b8c"
+        },
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/al_bidaya_wan_nihaya_part10.pdf",
+          "sizeBytes": 23380637,
+          "sha256": "a8f2776d9bc5381bd8e283d8dd92d8188bd41422942ce845dd1b9bf54b5e51ce"
+        }
+      ]
+    },
+    {
+      "id": "umar_ibnul_khattab",
+      "title": "শহীদে মেহরাব হযরত ওমর ইবনুল খাত্তাব (রাঃ)",
+      "author": "সাইয়েদ ওমর তেলমেসানী",
+      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v10/umar_ibnul_khattab_cover.jpg",
+      "coverSha256": "54af9dbfa5d341437acb7dc9157f0c959299a4dee03ea20860c62ddb313c583d",
+      "files": [
+        {
+          "url": "https://github.com/rhamid509/zikr-content/releases/download/v10/umar_ibnul_khattab.pdf",
+          "sizeBytes": 25356302,
+          "sha256": "1346b2461f4595d916c0d97c73b412fedec03773749646cab1c4215b6b1195da"
         }
       ]
     }
