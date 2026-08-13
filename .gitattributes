@@ -1,0 +1,6 @@
+# manifest.json is cryptographically signed (see signing/README.md) — its bytes must always
+# match exactly what GitHub serves over raw.githubusercontent.com (LF), regardless of the
+# local checkout platform. Without this, Windows' core.autocrlf=true rewrites it to CRLF on
+# checkout, silently breaking the signature.
+manifest.json text eol=lf
+manifest.json.sig text eol=lf

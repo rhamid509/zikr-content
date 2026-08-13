@@ -18,6 +18,12 @@ if [ ! -f "$PRIVATE_KEY" ]; then
     exit 1
 fi
 
+# GitHub always serves raw.githubusercontent.com content with LF line endings, but a
+# Windows checkout with core.autocrlf=true rewrites the working-copy file to CRLF — signing
+# that CRLF version produces a signature that can never verify against what the app fetches.
+# Normalize to LF first so the bytes we sign are exactly the bytes GitHub will serve.
+sed -i 's/\r$//' "$MANIFEST"
+
 openssl dgst -sha256 -sign "$PRIVATE_KEY" "$MANIFEST" | base64 -w0 > "$SIGNATURE"
 echo "signed $MANIFEST -> $SIGNATURE"
 
