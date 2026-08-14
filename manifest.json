@@ -266,34 +266,6 @@
       ]
     },
     {
-      "id": "muhammad_bin_kashim",
-      "title": "মুহম্মদ ইবন কাসিম",
-      "author": "নসীম হিজাযী",
-      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v11/muhammad_bin_kashim_cover.jpg",
-      "coverSha256": "5101888b827fed55653f4d4c3b51836bb6f0660d2c25468369d0d264c26da1e6",
-      "files": [
-        {
-          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/muhammad_bin_kashim.pdf",
-          "sizeBytes": 26776386,
-          "sha256": "9b86a23274161950b99bdff12bf30b0b2d541479d45988a69b3f2c612e230150"
-        }
-      ]
-    },
-    {
-      "id": "manush_o_debota",
-      "title": "মানুষ ও দেবতা",
-      "author": "নসীম হিজাযী",
-      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v11/manush_o_debota_cover.jpg",
-      "coverSha256": "8ad336d06a95c2101e55a9cdda0412a14dd777d4504745ec8a4f758ff7f9f27f",
-      "files": [
-        {
-          "url": "https://github.com/rhamid509/zikr-content/releases/download/v11/manush_o_debota.pdf",
-          "sizeBytes": 19169877,
-          "sha256": "a25e66ba1c63b74c40f5177394055ffa1245618f841d1bee8b1a33b9e95c0a08"
-        }
-      ]
-    },
-    {
       "id": "andalusiar_shomudro_shoikote",
       "title": "আন্দালুসিয়ার সমুদ্রসৈকতে",
       "author": "এনায়েতুল্লাহ আলতামাশ",
