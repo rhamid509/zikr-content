@@ -531,20 +531,6 @@
       ]
     },
     {
-      "id": "kashf_al_shubuhat",
-      "title": "কাশফুশ শুবহাত",
-      "author": "মুহাম্মাদ ইবনে আব্দুল ওয়াহাব",
-      "coverUrl": "https://github.com/rhamid509/zikr-content/releases/download/v13/kashf_al_shubuhat_cover.jpg",
-      "coverSha256": "9a71cbb7ef028470fb8436ae2a22255ecdc71c0de6d7837241665611bed98e7e",
-      "files": [
-        {
-          "url": "https://github.com/rhamid509/zikr-content/releases/download/v13/kashf_al_shubuhat.pdf",
-          "sizeBytes": 558952,
-          "sha256": "6c3a59a49f3c0bbd2c28376c6e2624d046d1dfd214f872c1dab61ed081948367"
-        }
-      ]
-    },
-    {
       "id": "zad_al_maad",
       "title": "যাদুল মাআদ",
       "author": "ইবনুল কাইয়্যিম",
