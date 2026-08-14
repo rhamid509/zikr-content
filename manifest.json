@@ -1,6 +1,6 @@
 {
-  "version": 13,
-  "releaseTag": "v13",
+  "version": 14,
+  "releaseTag": "v14",
   "files": [
     {
       "id": "tafsir-bn-zakaria",
@@ -527,6 +527,602 @@
       "fontUrl": "https://github.com/rhamid509/zikr-content/releases/download/v8/hafezi_font.ttf",
       "fontSizeBytes": 301164,
       "fontSha256": "b7a35b2fd1c317193ee07b265772a5355f35a22e644cc8d1a897a82be1a0e422"
+    }
+  ],
+  "asmaulHusnaAudio": [
+    {
+      "number": 1,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_1.ogg",
+      "sizeBytes": 22077,
+      "sha256": "881ba562a53d4601d8825125b8f86739708e27159e9f491d14d3a51aa2213899"
+    },
+    {
+      "number": 2,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_2.ogg",
+      "sizeBytes": 24158,
+      "sha256": "3f905be613e2ac0082dc2785d76aa6fdab4f055286d9c20e01255cd191698419"
+    },
+    {
+      "number": 3,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_3.ogg",
+      "sizeBytes": 16287,
+      "sha256": "b2285509bc20ab3c5cb4235a34d10897e0b6f9e72fd1d941c6485a36bd06d6d1"
+    },
+    {
+      "number": 4,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_4.ogg",
+      "sizeBytes": 22967,
+      "sha256": "406a018614e6aa141cd4e5979f52f53af62ee0732df84c27bcf80c834347dfb6"
+    },
+    {
+      "number": 5,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_5.ogg",
+      "sizeBytes": 23646,
+      "sha256": "90fee9e56e34363c0d99d184ea5106c070e5706795a1d08ce1c8e012e9832cb4"
+    },
+    {
+      "number": 6,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_6.ogg",
+      "sizeBytes": 16888,
+      "sha256": "2158601712dbcd38091e6e05416d3be869807cd37d2d94aff4e6c568db1695c5"
+    },
+    {
+      "number": 7,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_7.ogg",
+      "sizeBytes": 23290,
+      "sha256": "4dba743501d2d6c020d39b541614a527675a89b462ca5895abe8334e309dd5da"
+    },
+    {
+      "number": 8,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_8.ogg",
+      "sizeBytes": 22840,
+      "sha256": "25065a6d540f6b858c0d060a86b01dee402d2fb4995285ced2bfa9956ad37105"
+    },
+    {
+      "number": 9,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_9.ogg",
+      "sizeBytes": 23080,
+      "sha256": "cfb693e315a1e4a864f5d1c4be08decfd826af625f178c949c6c62414980b643"
+    },
+    {
+      "number": 10,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_10.ogg",
+      "sizeBytes": 22606,
+      "sha256": "284a054323e1d798dfebf52e9ab094e957a8e058e56f57c99e6203111bcb1183"
+    },
+    {
+      "number": 11,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_11.ogg",
+      "sizeBytes": 22865,
+      "sha256": "1c95f10b3d55306c562ef3cf13d9ad39c509aaad2bb94af12984a0b57c0de896"
+    },
+    {
+      "number": 12,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_12.ogg",
+      "sizeBytes": 24186,
+      "sha256": "0b09b5327f941462fc9b4c16d2380d780bb293999966b25bd441c38a2ba77a23"
+    },
+    {
+      "number": 13,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_13.ogg",
+      "sizeBytes": 23650,
+      "sha256": "dea098e753abdd801180cba49fbe6f9010190b5fad128d310554be13a2f1f588"
+    },
+    {
+      "number": 14,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_14.ogg",
+      "sizeBytes": 25902,
+      "sha256": "107a48353d38b30eb04e8e81cd2007b1ad5c3ab3c1c57aa148de5a7010c21771"
+    },
+    {
+      "number": 15,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_15.ogg",
+      "sizeBytes": 24469,
+      "sha256": "5320ce8b2892813edc644639787c4f88f9feb5ddd0d0e1e6c5a7024ce21e5453"
+    },
+    {
+      "number": 16,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_16.ogg",
+      "sizeBytes": 24091,
+      "sha256": "33fe157294bfbe160c512be38ef8557c40f7cea8682b41ce6ac2d94bfd056b1e"
+    },
+    {
+      "number": 17,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_17.ogg",
+      "sizeBytes": 25782,
+      "sha256": "68db5be16672a337defa52a5bdece6049d6e68aace1f842b86ca21db20429bd3"
+    },
+    {
+      "number": 18,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_18.ogg",
+      "sizeBytes": 19998,
+      "sha256": "956b7420574444e80c5ba8288f8d2be01144bce26a5d2f92a9af7512e66a5ef1"
+    },
+    {
+      "number": 19,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_19.ogg",
+      "sizeBytes": 21986,
+      "sha256": "4acf57836dc45e87371347a345a37e8615e79843d01e9cf297512e00a198f0e2"
+    },
+    {
+      "number": 20,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_20.ogg",
+      "sizeBytes": 17589,
+      "sha256": "718e57373c642f1221bd84aea22b369d9e251d9df26830145b4d332bb7990f9c"
+    },
+    {
+      "number": 21,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_21.ogg",
+      "sizeBytes": 21713,
+      "sha256": "31ce9e047554092bf8864e62ca13344c42f474e542a3aa8cc2d93c25babed4f2"
+    },
+    {
+      "number": 22,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_22.ogg",
+      "sizeBytes": 21589,
+      "sha256": "f7ebaefba44800bd5f3dbdbe505b69a2b50a82f53d8654042233af2d63eba484"
+    },
+    {
+      "number": 23,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_23.ogg",
+      "sizeBytes": 21622,
+      "sha256": "235031ae0824552d09b52c0e60ad7147f40fc8f456297e89c041f67cc975b400"
+    },
+    {
+      "number": 24,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_24.ogg",
+      "sizeBytes": 18819,
+      "sha256": "f9b9bf008a90923a775282d0fc620979ae58fcb5fb08eb6adf03914aadcae1bc"
+    },
+    {
+      "number": 25,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_25.ogg",
+      "sizeBytes": 19138,
+      "sha256": "30e96400a34659b6574ede9ed0a4099b9abf3e152dce352f4a6ca11b8dd4429e"
+    },
+    {
+      "number": 26,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_26.ogg",
+      "sizeBytes": 19307,
+      "sha256": "267f133fbad0577446a2f01be3c1911ff0c951c7dc9585b89fd2502598207e63"
+    },
+    {
+      "number": 27,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_27.ogg",
+      "sizeBytes": 21658,
+      "sha256": "b6ac742052d13a33c7e4b778c6d06c004a97315b9d066340dea05a051e68cb97"
+    },
+    {
+      "number": 28,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_28.ogg",
+      "sizeBytes": 17290,
+      "sha256": "a9da09fd6c76fc309234feda44939fe56fd752047095549eb9039b22636bb7fb"
+    },
+    {
+      "number": 29,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_29.ogg",
+      "sizeBytes": 16564,
+      "sha256": "a9c2ce994c5b72505c7e62981e434ef30771e753a6ad72ba57f74483c6e5e6d8"
+    },
+    {
+      "number": 30,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_30.ogg",
+      "sizeBytes": 20786,
+      "sha256": "f3a55c4e68e58bad895be73b2475a408c59527bfc213f36cecf0d68edbf10f91"
+    },
+    {
+      "number": 31,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_31.ogg",
+      "sizeBytes": 23332,
+      "sha256": "1be29705904256d88e146daf300f2c8e22e2c97b119f4696004a0582a8c45350"
+    },
+    {
+      "number": 32,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_32.ogg",
+      "sizeBytes": 21855,
+      "sha256": "21e3d77f343133c31c8285d81a99922440ab3d25a4613757ad6ab710c0c616fc"
+    },
+    {
+      "number": 33,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_33.ogg",
+      "sizeBytes": 23380,
+      "sha256": "2e8b4b8a524f670638c3e6005d3a7fdf3c85963f7f8feabd49cb3e9dfb8a61c7"
+    },
+    {
+      "number": 34,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_34.ogg",
+      "sizeBytes": 23248,
+      "sha256": "57bd8f2d8ec50485c8466d5aa25d94b8115714499aa3e8228a663ce8cab46db9"
+    },
+    {
+      "number": 35,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_35.ogg",
+      "sizeBytes": 23115,
+      "sha256": "5222213127fdb06d76e038e81b0a60fced11fa56764ba5a41eec64a109134c24"
+    },
+    {
+      "number": 36,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_36.ogg",
+      "sizeBytes": 16793,
+      "sha256": "f75905c43389faa9a7c3c526b7b0870de82a42f978003ed0edb2e4caf903978a"
+    },
+    {
+      "number": 37,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_37.ogg",
+      "sizeBytes": 17553,
+      "sha256": "48d14a4e4d914b2ef632b9a864f31607f065951d7cf2dc51ec2b56d92b56ad01"
+    },
+    {
+      "number": 38,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_38.ogg",
+      "sizeBytes": 18506,
+      "sha256": "8905572eeafb6f9ed1ba63393cf6b1be8cd854cfc2b293da91ee254264517a20"
+    },
+    {
+      "number": 39,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_39.ogg",
+      "sizeBytes": 22216,
+      "sha256": "64e179977f4c6f4bd3ef6f889b180d1621c822a543ef86d69e4af2d6d6ace77e"
+    },
+    {
+      "number": 40,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_40.ogg",
+      "sizeBytes": 23244,
+      "sha256": "44fa600f0f910b3a535ba314152d61514114029e645afe1c439b351a1cdf8dfa"
+    },
+    {
+      "number": 41,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_41.ogg",
+      "sizeBytes": 22459,
+      "sha256": "0d2c3f1e263a48495d0266e373e16213cbf54ae367e7ed927ab8cb8a4fc1b452"
+    },
+    {
+      "number": 42,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_42.ogg",
+      "sizeBytes": 25000,
+      "sha256": "6f4a5cbe215e333608f915315e8d766a0920c7f017d799202181918f3e9b271e"
+    },
+    {
+      "number": 43,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_43.ogg",
+      "sizeBytes": 22662,
+      "sha256": "c767c45911ca5b1b754cd6a9743d6fe8b1f32085e8aa830ab504e293c2ea1c4c"
+    },
+    {
+      "number": 44,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_44.ogg",
+      "sizeBytes": 24326,
+      "sha256": "ca913f748a04b7d81473a74670daeeb96a3726a6d3218cf55b5a5cac16f5fe16"
+    },
+    {
+      "number": 45,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_45.ogg",
+      "sizeBytes": 19751,
+      "sha256": "15225f92dd522a3a2d9674d7e2aa7012f66d9ed4e006506d6b507c1dea44859d"
+    },
+    {
+      "number": 46,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_46.ogg",
+      "sizeBytes": 23286,
+      "sha256": "c2303e7423a1d8102d32c38b4cf78d659245aafb2c23c41abc065fcfde7bd232"
+    },
+    {
+      "number": 47,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_47.ogg",
+      "sizeBytes": 21223,
+      "sha256": "c5595cf8100b5bbd9e8e134260ea03aa066cf123bb15705de1c287a50c0b5aca"
+    },
+    {
+      "number": 48,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_48.ogg",
+      "sizeBytes": 23650,
+      "sha256": "5cd2711142f0786d321a8261feee14e2614fcd7a13487929c70544c4bb9b8048"
+    },
+    {
+      "number": 49,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_49.ogg",
+      "sizeBytes": 20991,
+      "sha256": "ae130d8ac532a77b9b42cbd66e56b59b0c52ad86b8a79f5f76a382b0675b3d37"
+    },
+    {
+      "number": 50,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_50.ogg",
+      "sizeBytes": 21854,
+      "sha256": "b4f903613d05aeaf3756a0e81eb4d066c64a08894cd0d53716e8b6d4341303d4"
+    },
+    {
+      "number": 51,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_51.ogg",
+      "sizeBytes": 17828,
+      "sha256": "0bde31e39b96ab24e58fb87c5318c41d70a40a7d010cd7e730e699da1c71c15a"
+    },
+    {
+      "number": 52,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_52.ogg",
+      "sizeBytes": 21540,
+      "sha256": "754a335a3cfc99bd6810044dccd3fa999ef3c265e6cc00dcd8884895e15d7660"
+    },
+    {
+      "number": 53,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_53.ogg",
+      "sizeBytes": 19266,
+      "sha256": "d0f596f377305711976557cb84256d0211ada6fdaabc58fc4ae4c9c1cc90fb91"
+    },
+    {
+      "number": 54,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_54.ogg",
+      "sizeBytes": 24441,
+      "sha256": "83640893e8e886f16792170ccf6ebe4e0fad6d8a0d2964a6df67c88c5494b633"
+    },
+    {
+      "number": 55,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_55.ogg",
+      "sizeBytes": 19359,
+      "sha256": "159252e55f25c4e321d22760c386994d74cd28b403f9807f5ae4e8bf509747bc"
+    },
+    {
+      "number": 56,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_56.ogg",
+      "sizeBytes": 22643,
+      "sha256": "533f326203865cbe234dcf47210e248c1f841ff9ab8bec6309992c4fe40073ee"
+    },
+    {
+      "number": 57,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_57.ogg",
+      "sizeBytes": 19028,
+      "sha256": "b1b8a0963da8500735aa059f3849e331b6db4f5673ae28b9168421e51c512a0d"
+    },
+    {
+      "number": 58,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_58.ogg",
+      "sizeBytes": 18256,
+      "sha256": "4f5df47bd4e728a21b156f82e0acc61b3b24bc8d520714e42734d4c3cc0764cb"
+    },
+    {
+      "number": 59,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_59.ogg",
+      "sizeBytes": 20651,
+      "sha256": "9a7f9922e63c54d11b3a17d9cd26bbcbfb0b596e6da6b899d3d6e8db8d0d8b56"
+    },
+    {
+      "number": 60,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_60.ogg",
+      "sizeBytes": 18764,
+      "sha256": "d81db9b4d631e9941c11a849026397b0b972c1d8e115e6a78be526d782692bb0"
+    },
+    {
+      "number": 61,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_61.ogg",
+      "sizeBytes": 21002,
+      "sha256": "2cdf3861bab786bfffa6b515d18e6fffeaf1c1f17929f4c7f76b761d4d32f675"
+    },
+    {
+      "number": 62,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_62.ogg",
+      "sizeBytes": 15151,
+      "sha256": "4e9efbc1ca1013d19177ffb28213ba17d12e465cf206e75738219d65d19a6e08"
+    },
+    {
+      "number": 63,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_63.ogg",
+      "sizeBytes": 24043,
+      "sha256": "3addc9cabd85b8e64a9886537e5618f905aa19a86595d2dd163d76c6f2001061"
+    },
+    {
+      "number": 64,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_64.ogg",
+      "sizeBytes": 20140,
+      "sha256": "a9989ad20b37b4bc46425e88bd552e78411f012e742e9020b4e83f6c4c7df588"
+    },
+    {
+      "number": 65,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_65.ogg",
+      "sizeBytes": 19880,
+      "sha256": "aa2cc1ab23ba13f3abfd3c70fde64c7f063ebe937193e35c79c6798649313104"
+    },
+    {
+      "number": 66,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_66.ogg",
+      "sizeBytes": 21171,
+      "sha256": "9954444d5d7a40c292a0ca12fb9dd6613f1c277ca1c36e668062f613556b0414"
+    },
+    {
+      "number": 67,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_67.ogg",
+      "sizeBytes": 15934,
+      "sha256": "804fd84877756b8e557735786f95d8b420d6c3bc6842ba4ac9957107a4a9bf6c"
+    },
+    {
+      "number": 68,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_68.ogg",
+      "sizeBytes": 16238,
+      "sha256": "de869a73aa00a0505cb2d78aaf4834a9571805199a5204ba8bb5fa6af6c77297"
+    },
+    {
+      "number": 69,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_69.ogg",
+      "sizeBytes": 20088,
+      "sha256": "c2bdc31e3b7c6e5d8b456ff0090669633e106f5b9d115e0d91deca402ae9d21d"
+    },
+    {
+      "number": 70,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_70.ogg",
+      "sizeBytes": 20099,
+      "sha256": "072e3645a2d391a0fc70db9d955f7069a84fb0d6aab2c0252d66f5a726f05e7d"
+    },
+    {
+      "number": 71,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_71.ogg",
+      "sizeBytes": 18452,
+      "sha256": "48069373ff7236d1d4394633b1209b0f9c0fe3fc567fb60fd00f449068357d67"
+    },
+    {
+      "number": 72,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_72.ogg",
+      "sizeBytes": 20022,
+      "sha256": "bf51595b087426469c74ecb3c73a701001ae8c39e0ea3605a6a2847e55f1a653"
+    },
+    {
+      "number": 73,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_73.ogg",
+      "sizeBytes": 18236,
+      "sha256": "d450227161f61d91da51ea806af27313dd776f1d22df8ba1459b38f32d08be3d"
+    },
+    {
+      "number": 74,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_74.ogg",
+      "sizeBytes": 20911,
+      "sha256": "25a86a4b6cd8e8fba3d3142014d9bb3f9a8e6e1109dcb6ef0536505c92dd33ec"
+    },
+    {
+      "number": 75,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_75.ogg",
+      "sizeBytes": 22533,
+      "sha256": "bea2d0ac8579e424f8499ebc14f413111e21fa7bf563c236a6e3c6094434b0a5"
+    },
+    {
+      "number": 76,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_76.ogg",
+      "sizeBytes": 20852,
+      "sha256": "2edb3706f1bf1e836061ba794d7cb6d80249da4c393f45f109f476e6e7c8d503"
+    },
+    {
+      "number": 77,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_77.ogg",
+      "sizeBytes": 21486,
+      "sha256": "c7b3faaba686fe67e23ef287e9c778c83c9063c96c19a1a3e3cb846f7bab7846"
+    },
+    {
+      "number": 78,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_78.ogg",
+      "sizeBytes": 25236,
+      "sha256": "6c65338cace45e1b17e02f418dc6945f8515fb0c637f2fe1b8724a0c1986bb30"
+    },
+    {
+      "number": 79,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_79.ogg",
+      "sizeBytes": 14288,
+      "sha256": "7f1451704811335c55fdd084d60cd3b3fbabec694752b61b277f8862f5022615"
+    },
+    {
+      "number": 80,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_80.ogg",
+      "sizeBytes": 23045,
+      "sha256": "f61b521c1bf4712559f402cc4bd005961958231dafcf4d55ae975ea00f1bf97c"
+    },
+    {
+      "number": 81,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_81.ogg",
+      "sizeBytes": 24507,
+      "sha256": "f337fbff1594804e8f763aa9fdf7254236de66a3b388ff6c6b3f46af67ded26f"
+    },
+    {
+      "number": 82,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_82.ogg",
+      "sizeBytes": 20214,
+      "sha256": "50d8ad4f55ac38df48c1e224b36bfa32177c8d051ae50253dbde66d35a92c0d0"
+    },
+    {
+      "number": 83,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_83.ogg",
+      "sizeBytes": 20966,
+      "sha256": "f01313a47e91621f1852983dd32010f71be2dab205cc90a33e8b1cd6b93d246b"
+    },
+    {
+      "number": 84,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_84.ogg",
+      "sizeBytes": 25624,
+      "sha256": "31d869cfa5a180502e3f33acee3fa05adfec9414f241201e397b2130cb26cd41"
+    },
+    {
+      "number": 85,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_85.ogg",
+      "sizeBytes": 46058,
+      "sha256": "33692ab093d35d5315a07a06e6be8a4853440e22063919b9a051e01c5b2e2181"
+    },
+    {
+      "number": 86,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_86.ogg",
+      "sizeBytes": 21531,
+      "sha256": "a114a84c645dba6b51aea8e555d423e417bb3a223656d65eb99361c29985c2c8"
+    },
+    {
+      "number": 87,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_87.ogg",
+      "sizeBytes": 21701,
+      "sha256": "b0745fe43c6b22e818e0071ac30a7a723f743d736f502de1daa9cae0136c4405"
+    },
+    {
+      "number": 88,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_88.ogg",
+      "sizeBytes": 18499,
+      "sha256": "6e944699b4c899162cf751d20346c81d7005f14b166c8eeda7d95bd6feed5cff"
+    },
+    {
+      "number": 89,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_89.ogg",
+      "sizeBytes": 21409,
+      "sha256": "09d396bad2cd55a2b13d467fb89355a2b295d8373eaf3ff78ac244df2687950c"
+    },
+    {
+      "number": 90,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_90.ogg",
+      "sizeBytes": 21547,
+      "sha256": "71f653ea21e111c238cae35484e2df10e9db6c3e09b478793066730f19ec020d"
+    },
+    {
+      "number": 91,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_91.ogg",
+      "sizeBytes": 22916,
+      "sha256": "efd89db91a517a910450a238c0b928a07e3705030a7965223e41827b269af414"
+    },
+    {
+      "number": 92,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_92.ogg",
+      "sizeBytes": 21098,
+      "sha256": "f2b8a624a34ff2f9c335d41a27b0133f2575aa7e1fc3ea1678ebed3909f626bb"
+    },
+    {
+      "number": 93,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_93.ogg",
+      "sizeBytes": 20785,
+      "sha256": "cf522370e9837b5ad9f473bad43f44cf67258e40b2fc2bbb1988c0a69b39f0ea"
+    },
+    {
+      "number": 94,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_94.ogg",
+      "sizeBytes": 21924,
+      "sha256": "6edddfc8385cbbdd398959fb25735d0981954e39d49552afa5e68a7fa7d860fd"
+    },
+    {
+      "number": 95,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_95.ogg",
+      "sizeBytes": 17794,
+      "sha256": "22cda05cf24a3c04a56847c8864cebeaf99d4916db36d40c608dbac6c20f97e9"
+    },
+    {
+      "number": 96,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_96.ogg",
+      "sizeBytes": 21369,
+      "sha256": "7f39738ff4d08f9e2c5da47162b776895c613346dedf19da941fee67970f995d"
+    },
+    {
+      "number": 97,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_97.ogg",
+      "sizeBytes": 21017,
+      "sha256": "ef7b97c584fd9bffcfd4343ca23335c2cc60a974233c075feedc9697a22e4954"
+    },
+    {
+      "number": 98,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_98.ogg",
+      "sizeBytes": 21362,
+      "sha256": "d553bd6cc9971a5ea5c5c7ea020866474cfadcf71354ba52596f92f7aef8dfca"
+    },
+    {
+      "number": 99,
+      "url": "https://github.com/rhamid509/zikr-content/releases/download/v14/asma_99.ogg",
+      "sizeBytes": 22975,
+      "sha256": "a7d9ed989da6bc82ad409217b7f0416efdf0589ce3779c220bc0dad7738e3c1d"
     }
   ]
 }
