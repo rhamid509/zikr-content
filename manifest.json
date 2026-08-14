@@ -1,6 +1,7 @@
 {
   "version": 14,
   "releaseTag": "v14",
+  "minSupportedVersionCode": 2,
   "files": [
     {
       "id": "tafsir-bn-zakaria",
